@@ -69,8 +69,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw linkedin-in" 
-      url: "https://github.com/"
+      icon: "fab fa-linkedin-in" 
+      url: "https://www.linkedin.com/in/fransson-max/"
 
 
 footer:
