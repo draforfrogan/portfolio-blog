@@ -64,10 +64,10 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://draforfrogan.github.io/portfolio-blog"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/draforfrogan"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/fransson-max/"
@@ -77,7 +77,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/draforfrogan"
 
 defaults:
   # _posts
