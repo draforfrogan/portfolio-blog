@@ -71,6 +71,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/fransson-max/"
+    - label: "Resume"
+      icon: "fab fa-fw-file-text-o" 
+      url: "https://github.com/draforfrogan/portfolio-blog/raw/master/assets/files/max_fransson_resume_dark.pdf"
 
 
 footer:
