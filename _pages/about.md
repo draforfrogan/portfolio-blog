@@ -8,3 +8,5 @@ Foremost I enjoy problem solving, and the IT domain in general carries with it a
 In my spare time I'm currently using CAD software quite often. The main programs being KiCAD (EDA software) and Autodesk Fusion 360. 
 
 Feel free to look around a bit and explore some of the projects that I've published on this site, and if you have any questions, don't hesitate to reach out. //Max
+
+My latest resume: https://raw.githubusercontent.com/draforfrogan/portfolio-blog/master/assets/files/max_fransson_resume_dark.pdf
